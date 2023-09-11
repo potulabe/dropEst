@@ -5,3 +5,5 @@ cmake-build-debug/
 _build
 _static
 _templates
+*.sif
+.vscode/*
